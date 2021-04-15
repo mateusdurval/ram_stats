@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "nodemon memory.js"
+  },
+  "dependencies": {
+    "node-os-utils": "^1.3.5",
+    "nodemon": "^2.0.7"
+  }
+}

@@ -2,7 +2,7 @@
 
 <h3>How to start</h3>
 
-<p>Run the commands:</p>
+<p>In your terminal, run the commands below:</p>
 
 <code>
   yarn install && yarn start
